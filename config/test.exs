@@ -12,7 +12,7 @@ config :logger, level: :warn
 # Configure your database
 config :diary, Diary.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
+  username: "foobar",
+  password: "password",
   database: "diary_test",
   size: 1 # Use a single connection for transactional tests
