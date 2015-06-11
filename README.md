@@ -1,4 +1,5 @@
 # Diary
+Simple Elixir/Phoenix application with authentication and test coverage 
 
 To start your new Phoenix application:
 
